@@ -1,0 +1,13 @@
+dependencies:
+  '@rush-temp/newman-test': 'file:projects/newman-test.tgz'
+lockfileVersion: 5.1
+packages:
+  'file:projects/newman-test.tgz':
+    dev: false
+    name: '@rush-temp/newman-test'
+    resolution:
+      integrity: sha512-lyb2dnht1eDEd89Q7x3Sn9rrjl3X7mYHasZ0SmfaBp+StQP569/GdAlKloLnD2tTQBNcL1v9yaSv7YDWA/njrQ==
+      tarball: 'file:projects/newman-test.tgz'
+    version: 0.0.0
+specifiers:
+  '@rush-temp/newman-test': 'file:./projects/newman-test.tgz'
