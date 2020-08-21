@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "npx newman run -r junit collection.json", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
