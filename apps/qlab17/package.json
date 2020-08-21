@@ -1,0 +1,30 @@
+{
+  "name": "qlab17",
+  "version": "1.0.0",
+  "description": "A minimal Electron application for testing build and autoupdate",
+  "main": "./app/main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "npx electron-builder build -w --x64"
+  },
+  "build":{
+	 "appId":"com.whigdev.qlab17",
+	 "win":{
+		 "target":[ "nsis" ]
+	 }
+  },
+  "repository": "https://github.com/macrobius/KitsapSearch",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "macrobius",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^8.2.0",
+    "electron-builder": "^22.8.0"
+  }
+}

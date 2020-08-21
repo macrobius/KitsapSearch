@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: qlab17-Setup-1.0.0.exe
+    sha512: ydxFOScbPMI2iCUX5f3EhAvBWGKUK3MKDGEz5IiCpSXcB17TdFYEIoDwUvjYqz5yHL5WywRsREuRVgshi9/67w==
+    size: 49910933
+path: qlab17-Setup-1.0.0.exe
+sha512: ydxFOScbPMI2iCUX5f3EhAvBWGKUK3MKDGEz5IiCpSXcB17TdFYEIoDwUvjYqz5yHL5WywRsREuRVgshi9/67w==
+releaseDate: '2020-08-21T21:18:18.903Z'

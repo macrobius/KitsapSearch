@@ -425,16 +425,16 @@
     //   // "versionPolicyName": ""
     // },
     // 
-     {
-       "packageName": "newman-test",
-       "projectFolder": "demos/newman-test",
-       "reviewCategory": "demos"
-     },
+//     {
+//       "packageName": "newman-test",
+//       "projectFolder": "demos/newman-test",
+//       "reviewCategory": "demos"
+//     },
     // 
-    // {
-    //   "packageName": "my-toolchain",
-    //   "projectFolder": "tools/my-toolchain",
-    //   "reviewCategory": "tools"
-    // }
+     {
+       "packageName": "qlab17",
+       "projectFolder": "apps/qlab17",
+       "reviewCategory": "apps"
+     }
   ]
 }
