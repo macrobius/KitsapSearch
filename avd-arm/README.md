@@ -1,0 +1,1 @@
+New-AzResourceGroup  -Name "storage-resource-group" -Location "westus"
